@@ -1,4 +1,0 @@
-﻿
-Class JavaScriptSerializer
-
-End Class
